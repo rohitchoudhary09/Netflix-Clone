@@ -29,7 +29,7 @@ export default function Featured({type}) {
 		  	)}
 			<img 
 				width="100%;"
-				src="https://wallpapercave.com/wp/wp6581315.jpg" 
+				src="https://ik.imagekit.io/foogrshml/Untitled.png?updatedAt=1740272179182" 
 				alt="_"
 			/>
 			<div className="info">
